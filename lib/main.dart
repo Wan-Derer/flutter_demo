@@ -2,7 +2,6 @@
 https://www.youtube.com/playlist?list=PL6lh8cTntlDiLlH_rHl5F0JOy_gRm_Wa4
  */
 
-
 import 'package:flutter/material.dart';
 
 void main() {
@@ -53,7 +52,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  int _counter = 0;
+  int _counter = 10;
 
   void _incrementCounter() {
     setState(() {
